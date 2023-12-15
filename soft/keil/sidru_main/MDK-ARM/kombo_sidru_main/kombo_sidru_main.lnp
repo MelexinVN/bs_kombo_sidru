@@ -1,0 +1,20 @@
+--cpu Cortex-M0
+"kombo_sidru_main\startup_stm32f030x6.o"
+"kombo_sidru_main\main.o"
+"kombo_sidru_main\stm32f0xx_it.o"
+"kombo_sidru_main\kombo_nrf24.o"
+"kombo_sidru_main\spi.o"
+"kombo_sidru_main\ws2812.o"
+"kombo_sidru_main\stm32f0xx_ll_gpio.o"
+"kombo_sidru_main\stm32f0xx_ll_dma.o"
+"kombo_sidru_main\stm32f0xx_ll_rcc.o"
+"kombo_sidru_main\stm32f0xx_ll_utils.o"
+"kombo_sidru_main\stm32f0xx_ll_exti.o"
+"kombo_sidru_main\stm32f0xx_ll_spi.o"
+"kombo_sidru_main\stm32f0xx_ll_pwr.o"
+"kombo_sidru_main\stm32f0xx_ll_tim.o"
+"kombo_sidru_main\system_stm32f0xx.o"
+--strict --scatter "kombo_sidru_main\kombo_sidru_main.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "kombo_sidru_main.map" -o kombo_sidru_main\kombo_sidru_main.axf

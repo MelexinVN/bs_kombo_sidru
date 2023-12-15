@@ -1,0 +1,28 @@
+12-02 18:01:01 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 220:Plugin executed on: 'win32'
+12-02 18:01:01 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 221:Plugin executed with python version: '3.9.14 (main, Feb 13 2023, 04:48:26) [MSC v.1934 64 bit (AMD64)]'
+12-02 18:01:01 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 222:KiCad build version: 7.0.1
+12-02 18:01:01 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 223:Plugin version: 1.0.10
+
+12-02 18:01:01 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 228:Screen sizes: [wx.Size(1366, 768)]
+12-02 18:01:01 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 235:Dialog size: wx.Size(213, 81)
+12-02 18:01:01 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 237:Char size: 15
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 24:Starting to archive 3D models
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: J2
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: J1
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Horizontal.step
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Horizontal.step
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Horizontal.step
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Horizontal.step
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Horizontal.step
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Horizontal.step
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: REF**
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: REF**
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: REF**
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: G***
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: REF**
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: DS1
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: E:/YandexDisk/GitHub/kicad/libs/tp4056-charging-module-type-c-1.snapshot.1/TP4056_Charging_Module_Type_C.step
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: E:/YandexDisk/GitHub/kicad/libs/tp4056-charging-module-type-c-1.snapshot.1/TP4056_Charging_Module_Type_C.step
+12-02 18:01:03 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: G***

@@ -1,0 +1,18 @@
+--cpu Cortex-M0
+"kombo_sidru_remote\startup_stm32f030x6.o"
+"kombo_sidru_remote\kombo_nrf24.o"
+"kombo_sidru_remote\spi.o"
+"kombo_sidru_remote\main.o"
+"kombo_sidru_remote\stm32f0xx_it.o"
+"kombo_sidru_remote\stm32f0xx_ll_gpio.o"
+"kombo_sidru_remote\stm32f0xx_ll_rcc.o"
+"kombo_sidru_remote\stm32f0xx_ll_utils.o"
+"kombo_sidru_remote\stm32f0xx_ll_exti.o"
+"kombo_sidru_remote\stm32f0xx_ll_spi.o"
+"kombo_sidru_remote\stm32f0xx_ll_dma.o"
+"kombo_sidru_remote\stm32f0xx_ll_pwr.o"
+"kombo_sidru_remote\system_stm32f0xx.o"
+--strict --scatter "kombo_sidru_remote\kombo_sidru_remote.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "kombo_sidru_remote.map" -o kombo_sidru_remote\kombo_sidru_remote.axf
