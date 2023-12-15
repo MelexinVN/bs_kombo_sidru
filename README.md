@@ -1,8 +1,9 @@
 <img align="right" width=150 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/photo.jpg" />
 
-# СветоИзлучающее Декоративное Радиоуправляемое Устройство (СИДРУ)
+# СИДРУ
+## СветоИзлучающее Декоративное Радиоуправляемое Устройство
 
-<img align="right" width=120 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/logo_red.png" />
+<img align="left" width=80 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/logo_red.png" />
 
 В рамках проекта ["КомБО"](https://github.com/MelexinVN/bs_kombo) разработано декоративное устройство на адресных светодиодах, управляемое по радиоканалу.
 
