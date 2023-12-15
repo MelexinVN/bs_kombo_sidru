@@ -2,8 +2,6 @@
 
 # СветоИзлучающее Декоративное Радиоуправляемое Устройство (СИДРУ)
 
-## Проект ["КомБО"](https://github.com/MelexinVN/bs_kombo) (Открытые системы беспроводной коммуникации)
-
 <img align="right" width=120 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/logo_red.png" />
 
 В рамках проекта ["КомБО"](https://github.com/MelexinVN/bs_kombo) разработано декоративное устройство на адресных светодиодах, управляемое по радиоканалу.
