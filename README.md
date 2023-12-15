@@ -1,4 +1,4 @@
-<img align="right" width=150 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/photo.png" />
+<img align="right" width=150 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/photo.jpg" />
 
 # СветоИзлучающее Декоративное Радиоуправляемое Устройство (СИДРУ)
 ## Проект ["КомБО"](https://github.com/MelexinVN/bs_kombo) (Открытые системы беспроводной коммуникации)
