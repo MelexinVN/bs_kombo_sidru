@@ -1,4 +1,4 @@
-<img align="right" width=120 src="https://github.com/MelexinVN/bs_kombo/blob/main/media/logo_red.png" />
+<img align="right" width=120 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/logo_red.png" />
 
 # СветоИзлучающее Декоративное Радиоуправляемое Устройство (СИДРУ)
 ## Проект ["КомБО"](https://github.com/MelexinVN/bs_kombo) (Открытые системы беспроводной коммуникации)
@@ -40,11 +40,11 @@ Here, TTP223 touch sensors are used as sensitive elements (buttons, relays, etc.
 
 ## Схема соединений пульта управления. Control panel connection diagram
 
-<img align="center" width=500 src="https://github.com/MelexinVN/kombo_sidru/blob/main/bs_kombo_sidru/media/remote_schematic.png" />
+<img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/remote_schematic.png" />
 
 ## Схема соединений декоративной части. Connection diagram of the decorative part
 
-<img align="center" width=500 src="https://github.com/MelexinVN/kombo_sidru/blob/main/bs_kombo_sidru/media/sidru_schematic.png" />
+<img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/sidru_schematic.png" />
 
 
 ## Наши ресурсы:
@@ -63,7 +63,7 @@ Here, TTP223 touch sensors are used as sensitive elements (buttons, relays, etc.
 - канал Яндекс Дзен: 	      [dzen.ru/bs_kombo](https://dzen.ru/bs_kombo)
 
 
-<img align="left" width=150 src="https://github.com/MelexinVN/kombo_sidru/blob/main/bs_kombo_sidru/media/%D0%9C%D0%9D%D0%A5%D0%A1.png" />
+<img align="left" width=150 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/%D0%9C%D0%9D%D0%A5%D0%A1.png" />
 
 ### Авторы всегда рады отзывам и любым конструктивным предложениям по улучшению проекта! 
 ### The authors are always happy to receive feedback and any constructive suggestions for improving the project!
