@@ -1,4 +1,4 @@
-<img align="right" width=150 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/photo.jpg" />
+<img align="right" width=150 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/ezgif-4-b3108896a6 (1).gif" />
 
 # СИДРУ
 ## СветоИзлучающее Декоративное Радиоуправляемое Устройство
@@ -40,7 +40,7 @@ Here, TTP223 touch sensors are used as sensitive elements (buttons, relays, etc.
 
 ## Пример работы готового устройства. Example of a finished device
 
-<img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/ezgif-4-b3108896a6 (1).gif" />
+<img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/ezgif-4-1b3c2cffb2.gif" />
 
 ### Планы по развитию:
 - **Добавление новых световых эффектов**
