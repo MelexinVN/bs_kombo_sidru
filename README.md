@@ -30,6 +30,28 @@ In the control panel, the microcontroller, depending on the state of the sensiti
 Here, TTP223 touch sensors are used as sensitive elements (buttons, relays, etc. can be used)
 
 
+## Схема соединений пульта управления. Control panel connection diagram
+
+<img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/remote_schematic.png" />
+
+## Схема соединений декоративной части. Connection diagram of the decorative part
+
+<img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/sidru_schematic.png" />
+
+## Пример работы готового устройства. Example of a finished device
+
+<img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/ezgif-4-b3108896a6 (1).gif" />
+
+### Планы по развитию:
+- **Добавление новых световых эффектов**
+- **Добавление исполнений для других микроконтроллеров и большего числа светодиодов**
+- **Проекты исходников на других IDE, в частности STM32CubeIDE**
+
+### Development plans:
+- **Adding new lighting effects**
+- **Add versions for other microcontrollers and more LEDs**
+- **Source projects on other IDEs, in particular STM32CubeIDE**
+
 ### Репозиторий содержит:
 - ***Исполняемые файлы и исходники ПО декоративной части и пульта управления***. Программы разработаны в Keil µVision V5.38.0.0 (MDK-Lite).
 - ***Гербер-файлы и исходники проектов используемых печатных плат***. Платы разработаны в KiCad 7.0.1, дополнительно в папках проекта можно найти архив 3д-моделей компонентов, а также интерактивный список компонентов (BOM).
@@ -39,14 +61,6 @@ Here, TTP223 touch sensors are used as sensitive elements (buttons, relays, etc.
 - ***Executable files and software sources for the decorative part and the control panel***. The programs were developed in Keil µVision V5.38.0.0 (MDK-Lite).
 - ***Gerber files and source codes for designs of printed circuit boards used***. The boards were developed in KiCad 7.0.1; in addition, in the project folders you can find an archive of 3D models of components, as well as an interactive list of components (BOM).
 - ***STL files and sources of 3D models of used 3D printed parts and cases***. The models were developed in OpenSCAD version 2021.01.
-
-## Схема соединений пульта управления. Control panel connection diagram
-
-<img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/remote_schematic.png" />
-
-## Схема соединений декоративной части. Connection diagram of the decorative part
-
-<img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/sidru_schematic.png" />
 
 
 ## Наши ресурсы:
