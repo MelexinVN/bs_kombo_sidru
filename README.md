@@ -46,11 +46,13 @@ Here, TTP223 touch sensors are used as sensitive elements (buttons, relays, etc.
 - **Добавление новых световых эффектов**
 - **Добавление исполнений для других микроконтроллеров и большего числа светодиодов**
 - **Проекты исходников на других IDE, в частности STM32CubeIDE**
+- **Пример исполнения для подсветки комнаты**
 
 ### Development plans:
 - **Adding new lighting effects**
 - **Add versions for other microcontrollers and more LEDs**
 - **Source projects on other IDEs, in particular STM32CubeIDE**
+- **Example of design for room lighting**
 
 ### Репозиторий содержит:
 - ***Исполняемые файлы и исходники ПО декоративной части и пульта управления***. Программы разработаны в Keil µVision V5.38.0.0 (MDK-Lite).
