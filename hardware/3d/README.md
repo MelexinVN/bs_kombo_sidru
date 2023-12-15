@@ -5,16 +5,16 @@
 
 ## Крышка
 
-<img align="center" width=500 src="https://github.com/MelexinVN/kombo_sidru/blob/main/bs_kombo_sidru/hardware/3d/sidru_cap.PNG" />
+<img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/hardware/3d/sidru_cap.PNG" />
 
 ### Основание
 
-<img align="center" width=500 src="https://github.com/MelexinVN/kombo_sidru/blob/main/bs_kombo_sidru/hardware/3d/sidru_plate.PNG" />
+<img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/hardware/3d/sidru_plate.PNG" />
 
 ### Пульт управления
 
-<img align="center" width=500 src="https://github.com/MelexinVN/kombo_sidru/blob/main/bs_kombo_sidru/hardware/3d/sidru_remote.PNG" />
+<img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/hardware/3d/sidru_remote.PNG" />
 
 ### Стойка для печатных плат
 
-<img align="center" width=500 src="https://github.com/MelexinVN/kombo_sidru/blob/main/bs_kombo_sidru/hardware/3d/stand.PNG" />
+<img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/hardware/3d/stand.PNG" />
