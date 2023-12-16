@@ -1,6 +1,6 @@
 ## 3Д модели и исходники 3д-печатных деталей устройства.
-### 3Д моделм созданы в программе [OpenSCAD](https://openscad.org/)
-### Корпус пульта управления создан с использованием бмблиотеки YAPP_Box 
+### 3Д модели созданы в программе [OpenSCAD](https://openscad.org/)
+### Корпус пульта управления создан с использованием библиотеки YAPP_Box 
 ### [Yet Another Parameterised Projectbox generator](https://mrwheel-docs.gitbook.io/yappgenerator_en/)
 
 ## Крышка
