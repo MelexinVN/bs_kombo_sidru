@@ -38,7 +38,9 @@ Here, TTP223 touch sensors are used as sensitive elements (buttons, relays, etc.
 
 <img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/sidru_schematic.png" />
 
-## Пример работы готового устройства. Example of a finished device
+## Пример готового устройства. Example of a finished device
+
+<img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/photo_2023-12-15_22-49-48.jpg" />
 
 <img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/ezgif-4-1b3c2cffb2.gif" />
 
