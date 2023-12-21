@@ -26,6 +26,14 @@ uint8_t tx_buf[TX_PLOAD_WIDTH] = {0};	//буфер передачи
 
 volatile uint8_t f_rx = 0, f_tx = 0;	//флаги приема и передачи
 
+#ifdef ATMEGA8
+char sreg_temp;				//переменная значения регистра статуса
+#endif
+
+#ifdef ATMEGA88
+char sreg_temp;				//переменная значения регистра статуса
+#endif
+
 #ifdef STM32_LL
 //Самодельная функция микросекундной задержки
 __STATIC_INLINE void delay_us(__IO uint32_t micros)
@@ -35,23 +43,25 @@ __STATIC_INLINE void delay_us(__IO uint32_t micros)
 }
 #endif
 
+//Процедура отключения прерываний
 void interrupt_off(void)
 {
 	#ifdef ATMEGA8
-	char sreg_temp = SREG;				//сохраним значение регистра статуса
-	cli();												//запрещаем прерывания
+	sreg_temp = SREG;				//сохраним значение регистра статуса
+	cli();							//запрещаем прерывания
 	#endif
 	
 	#ifdef ATMEGA88
-	char sreg_temp = SREG;				//сохраним значение регистра статуса
-	cli();												//запрещаем прерывания
+	sreg_temp = SREG;				//сохраним значение регистра статуса
+	cli();							//запрещаем прерывания
 	#endif
 	
 	#ifdef STM32_LL
-	__disable_irq();							//запрещение всех прерываний
+	__disable_irq();				//запрещение всех прерываний
 	#endif
 }
 
+//Процедура включения прерываний
 void interrupt_on(void)
 {
 	#ifdef ATMEGA8
@@ -67,15 +77,16 @@ void interrupt_on(void)
 	#endif
 }
 
+//Функция микросекундной задержки для разных микроконтроллеров
 void uni_delay_us(uint32_t us)
 {
 		
 	#ifdef ATMEGA8
-	_delay_us(us);						
+	while(us--)	_delay_us(1u);	
 	#endif
 	
 	#ifdef ATMEGA88
-	_delay_us(us);						
+	while(us--)	_delay_us(1u);				
 	#endif
 	
 	#ifdef STM32_LL
