@@ -12,6 +12,7 @@
 <img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/hardware/3d/sidru_plate.PNG" />
 
 ### Пульт управления
+**!!! При печати без поддержек рекомендуется включить настройку "Сделать нависания печатаемыми"!!!**
 
 <img align="center" width=500 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/hardware/3d/sidru_remote.PNG" />
 
