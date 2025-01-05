@@ -71,8 +71,6 @@ Here, TTP223 touch sensors are used as sensitive elements (buttons, relays, etc.
 
 ### Основной репозиторий: [bs_kombo](https://github.com/MelexinVN/bs_kombo)
 
-### Cайт проекта: [bs-kombo.tilda.ws](http://bs-kombo.tilda.ws/)
-
 ### Электронная почта: 		    [bskombo@yandex.ru](bskombo@yandex.ru)
 
 ### Социальные сети:
@@ -80,7 +78,6 @@ Here, TTP223 touch sensors are used as sensitive elements (buttons, relays, etc.
 - паблик ВКонтакте: 			  [vk.com/bs_kombo](https://vk.com/bs_kombo)
 - Telegram-канал: 	        [t.me/bskombo](https://t.me/bskombo)
 - Telegram-чат: 	          [t.me/bs_kombo_chat](https://t.me/bs_kombo_chat)
-- канал Яндекс Дзен: 	      [dzen.ru/bs_kombo](https://dzen.ru/bs_kombo)
 
 
 <img align="left" width=150 src="https://github.com/MelexinVN/bs_kombo_sidru/blob/main/media/%D0%9C%D0%9D%D0%A5%D0%A1.png" />
